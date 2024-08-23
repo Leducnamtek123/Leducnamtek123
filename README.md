@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hello! I am [Duc Nam Le](https://www.linkedin.com/in/duc-nam-le-0ab0b1312/), a [Your Title, e.g., Software Engineer] passionate about software development and application deployment. I have experience working with technologies such as .NET, Angular, React, and deployment strategies.
+Hello! I am [Duc Nam Le](https://www.linkedin.com/in/duc-nam-le-0ab0b1312/), a [Software Engineer] passionate about software development and application deployment. I have experience working with technologies such as .NET, Angular, React, and deployment strategies.
 
 ## 🌐 Language Options
 
