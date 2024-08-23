@@ -6,8 +6,8 @@ Hello! I am [Duc Nam Le](https://www.linkedin.com/in/duc-nam-le-0ab0b1312/), a [
 
 You can view this README in the following languages:
 
-- **[English](README-English.md)**
-- **[Tiếng Việt](README-Vietnamese.md)**
+- **[English](https://github.com/Leducnamtek123/Leducnamtek123/blob/main/README.md)**
+- **[Tiếng Việt](https://github.com/Leducnamtek123/Leducnamtek123/blob/main/README-Vietnamese.md)**
 
 ## 🚀 Notable Projects
 
