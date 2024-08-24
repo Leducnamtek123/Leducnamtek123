@@ -18,7 +18,6 @@ You can view this README in the following languages:
 - **Project 2: Weather Forecast Application**  
   A weather forecasting application developed using React.  
   Find the source code at [Weather Forecast Application](https://github.com/Leducnamtek123/weather-forecast-app).
-
 - **Project 3**: Brief description of Project 3. Find the source code at [link to Project 3].
 
 ## 🛠 Skills
