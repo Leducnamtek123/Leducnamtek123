@@ -23,7 +23,7 @@ You can view this README in the following languages:
 ## 🛠 Skills
 
 - **Programming Languages**: C#, JavaScript, TypeScript
-- **Frameworks & Libraries**: .NET, Angular, React
+- **Frameworks & Libraries**: .NET, Angular, React, **Next.js**, **NestJS**
 - **Deployment & DevOps**: Docker, Kubernetes, CI/CD
 - **Tools**: Git, Jenkins, Azure DevOps
 
