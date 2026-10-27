@@ -18,11 +18,14 @@ You can view this README in the following languages:
 - **Project 2: Weather Forecast Application**  
   A weather forecasting application developed using React.  
   Find the source code at [Weather Forecast Application](https://github.com/Leducnamtek123/Weather_forcast).
-- **Project 3**: Brief description of Project 3. Find the source code at [link to Project 3].
+
+- **Project 3: engineering-brain**  
+  An open set of sourced, tested skills for coding agents (Claude Code, Codex, Gemini CLI, Cursor), following the open Agent Skills standard.  
+  Find the source code at [engineering-brain](https://github.com/Leducnamtek123/engineering-brain).
 
 ## 🛠 Skills
 
-- **Programming Languages**: C#, JavaScript, TypeScript
+- **Programming Languages**: C#, JavaScript, TypeScript, Python, Go
 - **Frameworks & Libraries**: .NET, Angular, React, **Next.js**, **NestJS**
 - **Deployment & DevOps**: Docker, Kubernetes, CI/CD
 - **Tools**: Git, Jenkins, Azure DevOps

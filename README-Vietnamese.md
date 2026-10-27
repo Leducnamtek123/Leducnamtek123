@@ -1,6 +1,6 @@
 # Chào mừng đến với Hồ sơ GitHub của tôi!
 
-Xin chào! Tôi là [Duc Nam Le](https://www.linkedin.com/in/duc-nam-le-0ab0b1312/), một [Chức danh của bạn, ví dụ: Kỹ sư Phần mềm] với đam mê trong phát triển phần mềm và triển khai ứng dụng. Tôi có kinh nghiệm làm việc với các công nghệ như .NET, Angular, React, và triển khai ứng dụng.
+Xin chào! Tôi là [Duc Nam Le](https://www.linkedin.com/in/duc-nam-le-0ab0b1312/), một Kỹ sư Phần mềm với đam mê trong phát triển phần mềm và triển khai ứng dụng. Tôi có kinh nghiệm làm việc với các công nghệ như .NET, Angular, React, Next.js, NestJS và các chiến lược triển khai ứng dụng.
 
 ## 🌐 Tùy chọn Ngôn ngữ
 
@@ -11,14 +11,22 @@ Bạn có thể xem README này bằng các ngôn ngữ khác:
 
 ## 🚀 Dự án nổi bật
 
-- **Dự án 1**: Mô tả ngắn gọn về dự án 1. Bạn có thể tìm thấy mã nguồn tại [link đến dự án 1].
-- **Dự án 2**: Mô tả ngắn gọn về dự án 2. Bạn có thể tìm thấy mã nguồn tại [link đến dự án 2].
-- **Dự án 3**: Mô tả ngắn gọn về dự án 3. Bạn có thể tìm thấy mã nguồn tại [link đến dự án 3].
+- **Dự án 1: Microservices Solution**  
+  Giải pháp microservices xây dựng bằng .NET, theo Domain-Driven Design (DDD) và Clean Architecture.  
+  Mã nguồn tại [Microservices Solution](https://github.com/Leducnamtek123/MicroservicesSolution).
+
+- **Dự án 2: Weather Forecast Application**  
+  Ứng dụng dự báo thời tiết xây dựng bằng React.  
+  Mã nguồn tại [Weather Forecast Application](https://github.com/Leducnamtek123/Weather_forcast).
+
+- **Dự án 3: engineering-brain**  
+  Bộ skill kỹ thuật có nguồn và có test cho coding agent (Claude Code, Codex, Gemini CLI, Cursor), theo chuẩn mở Agent Skills.  
+  Mã nguồn tại [engineering-brain](https://github.com/Leducnamtek123/engineering-brain).
 
 ## 🛠 Kỹ năng
 
-- **Ngôn ngữ lập trình**: C#, JavaScript, TypeScript
-- **Frameworks & Libraries**: .NET, Angular, React
+- **Ngôn ngữ lập trình**: C#, JavaScript, TypeScript, Python, Go
+- **Frameworks & Libraries**: .NET, Angular, React, Next.js, NestJS
 - **Triển khai & DevOps**: Docker, Kubernetes, CI/CD
 - **Công cụ**: Git, Jenkins, Azure DevOps
 
